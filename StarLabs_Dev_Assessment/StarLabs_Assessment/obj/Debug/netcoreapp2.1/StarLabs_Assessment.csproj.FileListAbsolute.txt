@@ -1,0 +1,33 @@
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.deps.json
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.runtimeconfig.json
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.runtimeconfig.dev.json
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.dll
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.pdb
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.csprojAssemblyReference.cache
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.csproj.CoreCompileInputs.cache
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.AssemblyInfoInputs.cache
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.AssemblyInfo.cs
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.dll
+/Users/ruchitmahabir/Projects/StarLabs_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.pdb
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.deps.json
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.runtimeconfig.json
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.runtimeconfig.dev.json
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.dll
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.pdb
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.csprojAssemblyReference.cache
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.csproj.CoreCompileInputs.cache
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.AssemblyInfoInputs.cache
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.AssemblyInfo.cs
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.dll
+/Users/ruchitmahabir/Projects/StarLabs_Assessment copy/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.pdb
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.deps.json
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.runtimeconfig.json
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.runtimeconfig.dev.json
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.dll
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/bin/Debug/netcoreapp2.1/StarLabs_Assessment.pdb
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.csprojAssemblyReference.cache
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.csproj.CoreCompileInputs.cache
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.AssemblyInfoInputs.cache
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.AssemblyInfo.cs
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.dll
+/Users/ruchitmahabir/Projects/StarLabs_Dev_Assessment/StarLabs_Assessment/obj/Debug/netcoreapp2.1/StarLabs_Assessment.pdb
